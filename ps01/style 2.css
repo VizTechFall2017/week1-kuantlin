@@ -1,0 +1,35 @@
+
+div{
+    border-style:solid;
+    border-width:1px;
+    border-color: darkslategray;
+    background-color: lightgrey;
+}
+
+.titleDiv {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36pt;
+    color: olivedrab;
+
+}
+
+#div2 {
+    width: 50%;
+    height:288px;
+    float:left;
+    background-color: lightgreen;
+
+}
+
+#div3 {
+    float:right;
+    height: 288px;
+    width: 49.5%;
+    background-color: lightgreen;
+}
+
+#div4{
+    height:20px;
+    clear:both;
+    padding: 10px;
+}

@@ -1,0 +1,30 @@
+#Title{
+    background-color: lemonchiffon;
+    width: 100%;
+}
+
+p{
+    padding: 15px;
+}
+
+#Likes{
+    background-color: paleturquoise;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+#Pet{
+    background-color: lavenderblush;
+    width: 50%;
+    height 500px;
+    float: right;
+}
+
+p{
+    margin: 20px;
+}
+
+img{
+    height: 200px;
+}

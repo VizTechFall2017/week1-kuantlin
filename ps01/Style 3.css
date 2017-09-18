@@ -1,0 +1,40 @@
+body{
+    background-color: Lightgrey;
+}
+
+
+div{
+    border-color: darkslategray;
+    background-color: lightgrey;
+}
+
+.titleDiv {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36pt;
+    color: olivedrab;
+    padding:10px;
+
+}
+
+#div2 {
+    font-family: 'Oswald';
+    width: 49%;
+    height:268px;
+    float:left;
+    background-color: lightgreen;
+    padding: 10px;
+
+}
+
+#div3 {
+    float:right;
+    height: 288px;
+    width: 49%;
+}
+
+#div4{
+    font-family: 'Oswald';
+    height:20px;
+    clear:both;
+    padding: 10px;
+}
